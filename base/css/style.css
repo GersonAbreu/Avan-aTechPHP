@@ -1,0 +1,24 @@
+body{
+background-color: black;
+
+}
+
+
+
+h1{
+    color: rgb(255, 187, 0);
+    text-align: center;
+}
+
+
+h1:hover {
+
+color: rgb(250, 47, 11);
+
+}
+
+
+    h2{color: rgb(255, 187, 0);
+    text-align: center;
+    }
+    
